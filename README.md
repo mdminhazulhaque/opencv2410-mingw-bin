@@ -1,4 +1,4 @@
-# OpenCV 2.4.10 MinGW Build
+# OpenCV 2.4.10 MinGW x86 Build
 
 This is a MinGW x86 build of OpenCV 2.4.10 library. It works with Codeblocks and also with Qt 5.5 x86.
 
@@ -55,3 +55,7 @@ A working Qt5 project file would be
         -llibopencv_videostab2410
         INCLUDEPATH += C:\opencv2410\include
     }
+
+# FFMPEG
+
+FFMPEG support has been tested using x264 encodec video. `opencv_ffmpeg2410.dll` has been included inside `bin` directory.
