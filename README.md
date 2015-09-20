@@ -58,4 +58,4 @@ A working Qt5 project file would be
 
 # FFMPEG
 
-FFMPEG support has been tested using x264 encodec video. `opencv_ffmpeg2410.dll` has been included inside `bin` directory.
+FFMPEG support has been tested using x264 encoded video. `opencv_ffmpeg2410.dll` has been included inside `bin` directory.
